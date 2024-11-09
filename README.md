@@ -32,6 +32,7 @@ Testing skateboard samples for safety and quality assurance is crucial to ensure
 These tests help manufacturers certify that skateboards meet safety standards, making them safe for users, and comply with regulations and guidelines from organizations like ASTM or ISO for sports equipment.
 
 
+© 2024 Quality Solutions Limited (QSL)
 
 
 
